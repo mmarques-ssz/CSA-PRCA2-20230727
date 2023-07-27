@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\recapitulando\recapitulando\bin\Debug\recapitulando.exe.config
+C:\Users\aluno\source\repos\recapitulando\recapitulando\bin\Debug\recapitulando.exe
+C:\Users\aluno\source\repos\recapitulando\recapitulando\bin\Debug\recapitulando.pdb
+C:\Users\aluno\source\repos\recapitulando\recapitulando\obj\Debug\recapitulando.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\recapitulando\recapitulando\obj\Debug\recapitulando.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\recapitulando\recapitulando\obj\Debug\recapitulando.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\recapitulando\recapitulando\obj\Debug\recapitulando.exe
+C:\Users\aluno\source\repos\recapitulando\recapitulando\obj\Debug\recapitulando.pdb
